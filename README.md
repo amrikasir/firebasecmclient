@@ -1,4 +1,4 @@
-# Firebase Cloud Messaging Client Library
+# Firebase Cloud Messaging PHP Client Library
 
 Install dulu dari composer:
 ```bash
